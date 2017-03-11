@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "forwarddistribution",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -112,7 +112,7 @@
               "src": "@PROJECT_PATH@/assets/images/forward-fine-logo-green-263x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
@@ -336,7 +336,7 @@
               "src": "@PROJECT_PATH@/assets/images/forward-fine-logo-green-263x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
@@ -355,8 +355,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -409,10 +409,10 @@
                 "active": false
               }
             ],
-            "spacing": 0,
+            "spacing": "0",
             "showText": false,
             "filter": false,
-            "bgColor": "#595656",
+            "bgColor": "#000000",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
