@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "forwarddistribution",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -412,7 +412,7 @@
             "spacing": 0,
             "showText": false,
             "filter": false,
-            "bgColor": "#FFFFFF",
+            "bgColor": "#595656",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
